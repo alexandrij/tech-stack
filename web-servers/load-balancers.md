@@ -11,10 +11,10 @@
 
 1. [Apache Hadoop](https://hadoop.apache.org/) — Проект фонда Apache Software Foundation, свободно распространяемый набор утилит, библиотек и фреймворк для разработки и выполнения распределённых программ, работающих на кластерах из сотен и тысяч узлов. 
 2. [HAProxy](https://www.haproxy.org/)  — Серверное программное обеспечение для обеспечения высокой доступности и балансировки нагрузки для TCP- и HTTP-приложений посредством распределения входящих запросов на несколько обслуживающих серверов
-3. [Traefik](https://traefik.io/traefik/)  — современный HTTP обратный прокси и балансировщик нагрузки, который делает развёртывание микросервисов простым. Traefik интегрируется с существующими инфраструктурными компонентами (Docker, Swarm mode, Kubernetes, Marathon, Consul, Etcd, Rancher, Amazon ECS, ...) и настраивается автоматически и динамически.
-4. Yandex Application Load Balancer
-5. Citrix Application Delivery Management (ADC)
-6. Array ADC/Load Balancers
+3. [Traefik](https://traefik.io/traefik/)  — Cовременный HTTP обратный прокси и балансировщик нагрузки, который делает развёртывание микросервисов простым. Traefik интегрируется с существующими инфраструктурными компонентами (Docker, Swarm mode, Kubernetes, Marathon, Consul, Etcd, Rancher, Amazon ECS, ...) и настраивается автоматически и динамически.
+4. [Yandex Application Load Balancer](https://cloud.yandex.ru/ru/services/application-load-balancer) — Сервис для распределения входящего трафика между разными компонентами веб‑приложений.
+6. [Citrix Application Delivery Management (ADC)](https://docs.citrix.com/en-us/tech-zone/design/reference-architectures/citrix-adm.html) 
+7. Array ADC/Load Balancers
 
 
 #### Полезные ссылки:
