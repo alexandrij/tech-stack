@@ -24,6 +24,6 @@
 9. [Нагрузочное тестирование](./load-testing/load-testing.md)
 10. [CI/CD](./ci-cd/ci-cd.md)
 
-
-
-
+# Полезные ссылки
+1. [Developer Roadmaps](https://roadmap.sh/)
+2. [Microservice Architecture](https://microservices.io/)
