@@ -23,6 +23,7 @@
    3. [Трассировки](./monitoring/traces.md)
 9. [Нагрузочное тестирование](./load-testing/load-testing.md)
 10. [CI/CD](./ci-cd/ci-cd.md)
+11. [Инструменты для проектирования](./arch-tools/arch-tools.md)
 
 # Полезные ссылки
 1. [Developer Roadmaps](https://roadmap.sh/)
