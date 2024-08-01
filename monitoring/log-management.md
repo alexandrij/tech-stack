@@ -46,7 +46,7 @@
 - PostgreSQL;
 - HDFS.
 
-### Визуализация:
+#### Визуализация:
 
 - Kibana;
 - Grafana;
@@ -54,3 +54,12 @@
 - Redash;
 - Apache Superset;
 - DataLens.
+
+### Настройки логирования
+
+- [Apache logs](https://sematext.com/blog/apache-logs/)
+- [RabbitMQ logs](https://sematext.com/blog/rabbitmq-logs/)
+- [Node.js logs](https://sematext.com/blog/node-js-logging/)
+- [Java logs](https://sematext.com/blog/java-logging/)
+- [Linux Logs](https://sematext.com/blog/linux-logs/)
+- [PostgeSQL logs](https://sematext.com/blog/postgresql-logs/)
