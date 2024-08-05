@@ -27,9 +27,11 @@
     - [FluentD](https://www.fluentd.org/) - Сборщик логов
     - [Kibana](https://www.elastic.co/kibana) - Визуализиция
 5. [Zabbix](https://www.zabbix.com/ru) - Zabbix
-   - [Zabbix agent 2](https://www.zabbix.com/documentation/6.4/ru/manual/concepts/agent2) - Сборщик логов
-   - [Zabbix WebInterface](https://www.zabbix.com/documentation/6.4/ru/manual/web_interface) - Визуализиция
-   - [PostgreSQL](https://www.zabbix.com/documentation/6.4/ru/manual/installation/install_from_packages/debian_ubuntu) - Хранилище логов
+    - Сборщик логов:
+      - [Zabbix agent](https://www.zabbix.com/documentation/6.4/ru/manual/concepts/agent)
+      - [Zabbix agent 2](https://www.zabbix.com/documentation/6.4/ru/manual/concepts/agent2)
+    - Zabbix сервер (сервер, веб-интерфейс и хранилище в базе данных.):
+      - [Zabbix Server](https://www.zabbix.com/documentation/6.4/ru/manual/concepts/server)
 
 ### Инструменты системы логирования
 
