@@ -11,17 +11,25 @@
 ### Системы логирования:
 
 1. [PLG](https://grafana.com/products/cloud/logs/) - Grafana stack
-    - [Loki](https://grafana.com/docs/loki/latest/) - Хранилище/Агрегация логов
     - [Promtail](https://grafana.com/docs/loki/latest/send-data/promtail/) - Сборщик логов
+    - [Loki](https://grafana.com/docs/loki/latest/) - Хранилище/Агрегация логов
     - [Grafana](https://grafana.com/docs/grafana/latest/) - Визуализация
-2. [ELK](https://www.elastic.co/elastic-stack) - Elastic Stack
+2. [NPG](https://grafana.com/products/cloud/logs/) - Prometheus/Grafana stack
+    - [Node exporter](https://prometheus.io/docs/guides/node-exporter/) - Сборщик логов
+    - [Prometheus](https://prometheus.io/docs/introduction/overview/) - Хранилище/Агрегация логов
+    - [Grafana](https://grafana.com/docs/grafana/latest/) - Визуализация
+3. [ELK](https://www.elastic.co/elastic-stack) - Elastic Stack
     - [ElasticSearch](https://www.elastic.co/elasticsearch) - Хранилище логов
     - [Logstash](https://www.elastic.co/logstash) - Сборщик логов
     - [Kibana](https://www.elastic.co/kibana) - Визуализиция
-3. [EFK](https://github.com/giefferre/EFK-stack)
+4. [EFK](https://github.com/giefferre/EFK-stack)
     - [ElasticSearch](https://www.elastic.co/elasticsearch) - Хранилище логов
     - [FluentD](https://www.fluentd.org/) - Сборщик логов
     - [Kibana](https://www.elastic.co/kibana) - Визуализиция
+5. [Zabbix](https://www.zabbix.com/ru) - Zabbix
+   - [Zabbix agent 2](https://www.zabbix.com/documentation/6.4/ru/manual/concepts/agent2) - Сборщик логов
+   - [Zabbix WebInterface](https://www.zabbix.com/documentation/6.4/ru/manual/web_interface) - Визуализиция
+   - [PostgreSQL](https://www.zabbix.com/documentation/6.4/ru/manual/installation/install_from_packages/debian_ubuntu) - Хранилище логов
 
 ### Инструменты системы логирования
 
