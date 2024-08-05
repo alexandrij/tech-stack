@@ -26,7 +26,7 @@
     - [ElasticSearch](https://www.elastic.co/elasticsearch) - Хранилище логов
     - [FluentD](https://www.fluentd.org/) - Сборщик логов
     - [Kibana](https://www.elastic.co/kibana) - Визуализиция
-5. [Zabbix](https://www.zabbix.com/ru) - Zabbix
+5. [Zabbix](https://www.zabbix.com/ru) - Zabbix (for [Astra Linux](https://wiki.astralinux.ru/pages/viewpage.action?pageId=38699775))
     - Сборщик логов:
       - [Zabbix agent](https://www.zabbix.com/documentation/6.4/ru/manual/concepts/agent)
       - [Zabbix agent 2](https://www.zabbix.com/documentation/6.4/ru/manual/concepts/agent2)
