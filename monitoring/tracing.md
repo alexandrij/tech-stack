@@ -17,5 +17,5 @@
           For Kafka. Считает трассировки из Kafka и записывает их в хранилище.
     - [Jaeger Query + Jaeger UI](https://www.jaegertracing.io/docs/1.59/architecture/#query) - Визуализация данных.
    
-    Библиотека трассировки [opentelemetry-go](github.com/open-telemetry/opentelemetry-go)
+    Пакет трассировки для go [opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)
 2. 
