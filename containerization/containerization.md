@@ -24,7 +24,7 @@
 
 ![img.png](assets/container-dir.png)
 
-### Современный мехнаизм изоляции процессов
+### Современный механизм изоляции процессов
 
 ![namespaces.png](assets/namespaces.png)
 
